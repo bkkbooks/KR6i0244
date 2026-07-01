@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0244/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 道地經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0607.xml
+    old_id: T15n0607
+hash: sha256:8deda324c75f4e2efef77af296be2548de8475f84f05fa2b0d2ef4f658b8b727

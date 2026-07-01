@@ -1,0 +1,124 @@
+canonical_identifier: bkk:krp/KR6i0244/v1
+canonical_location: https://kanripo.org/bkk/KR6i0244/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 道地經
+  identifiers:
+    alt_id:
+    - T15n0607
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0607.xml
+    old_id: T15n0607
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0244_000.yaml, hash: 'sha256:8deda324c75f4e2efef77af296be2548de8475f84f05fa2b0d2ef4f658b8b727'}
+  - {seq: 1, filename: KR6i0244_001.yaml, hash: 'sha256:f81d83eb8bc1c38afd15d1d4ccc82dee75dc7ec18287858ca91514f51651d456'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0244_001.markers.yaml, hash: 'sha256:f4a7e98f036e3f2e9db16da7946feda9901a26ee62c2c33665ab278dd39615d4'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0244_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8376
+  label: 道地經一卷
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0244_T_001-mulu-1
+    span:
+    - body
+    - 28
+    - 28
+  label: 1 散種章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0244_T_001-mulu-2
+    span:
+    - body
+    - 1079
+    - 1079
+  label: 2 知五陰慧章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0244_T_001-mulu-3
+    span:
+    - body
+    - 1370
+    - 1370
+  label: 3 隨應相具章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0244_T_001-mulu-4
+    span:
+    - body
+    - 1582
+    - 1582
+  label: 4 五陰分別現止章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0244_T_001-mulu-5
+    span:
+    - body
+    - 1943
+    - 1943
+  label: 5 五種成敗章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0244_T_001-mulu-6
+    span:
+    - body
+    - 6895
+    - 6895
+  label: 6 神足行章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0244_T_001-mulu-7
+    span:
+    - body
+    - 7700
+    - 7700
+  label: 7 五十五觀章
+  type: mulu
+  level: 1
+hash: sha256:3e4e94d379b555fd95b008103d0d4f7fe67170dbb8dd79d16e7fc98d1fc0d61f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

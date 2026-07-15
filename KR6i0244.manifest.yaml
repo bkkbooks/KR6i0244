@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0244/v1
 canonical_location: https://kanripo.org/bkk/KR6i0244/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 道地經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0244_000.yaml, hash: 'sha256:8deda324c75f4e2efef77af296be2548de8475f84f05fa2b0d2ef4f658b8b727'}
-  - {seq: 1, filename: KR6i0244_001.yaml, hash: 'sha256:f468615134b6ce22ca248b2bae790f20f71b49c604195a525f48a35d5d66b44b'}
+  - {seq: 1, filename: KR6i0244_001.yaml, hash: 'sha256:526dafc9b300e67344eb9515cbde5454948cddeab7c4ae3d96f3d8c0608537bc'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0244_000.markers.yaml, hash: 'sha256:8f23b24b37d40a566744e02508574fcf9fe9764e869122aeea50367fbd13384a'}
-  - {seq: 1, role: markers, filename: assets/KR6i0244_001.markers.yaml, hash: 'sha256:052acb3ad9587fb74e6e95585d657c4e03be8e710e00c6e72daea65ac43b2291'}
+  - {seq: 1, role: markers, filename: assets/KR6i0244_001.markers.yaml, hash: 'sha256:e8ffff72712ef5cfd4fa4f4cc9643812e571567fc7290b15613d99b0381fc195'}
 table_of_contents:
 - ref:
     seq: 1
@@ -119,4 +119,7 @@ table_of_contents:
   label: 7 五十五觀章
   type: mulu
   level: 1
-hash: sha256:20174934c5f38552f4da55569b20fd8af39c88ef67f85e04b37faff1b2534a5b
+hash: sha256:1466302a9f178d5539d48e5d1a2caaa9f08a02042813a3c63664d1ed9deb76d5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
